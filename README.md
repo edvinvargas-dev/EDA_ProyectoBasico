@@ -115,4 +115,5 @@ Hoteles, restaurantes y algunos retail medianos impulsan la mayor parte del volu
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/edvinvargas-dev/EDA_ProyectoBasico.git
+   
